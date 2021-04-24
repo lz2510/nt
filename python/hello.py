@@ -7,5 +7,5 @@ y = 'John'
 print(x)
 print(y)
 x = "awesome"
-print("ptyon is "+x)
+print("pyon is "+x)
 
